@@ -2,8 +2,7 @@
 
 <p align="center">
 <a href="https:/www.linkedin.com/in/gessner-de-oliveira-bezerra-a9908b42" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="imagem" width="45"> &nbsp;
-</a>
+ <img src="https://cdn.dribbble.com/users/4385214/screenshots/10639794/2gui.gif"> 
   
 <h4> 🪐 Me chamo Gessner, tenho 44 anos, sou professor de Matemática e Desenvolvedor FullStack em desenvolvimento na GrowDev.</h4>
 
@@ -12,7 +11,8 @@
 <p align="center">
   
   
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="imagem" width="45"> &nbsp;
+</a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="imagem" width="60"> &nbsp;
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="imagem" width="60"> &nbsp;
