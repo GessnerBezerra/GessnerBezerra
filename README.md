@@ -2,7 +2,15 @@
 
 <p align="center">
 
- <img src="https://cdn.dribbble.com/users/4385214/screenshots/10639794/2gui.gif" width="600px"> 
+ <img src="https://cdn.dribbble.com/users/4385214/screenshots/10639794/2gui.gif" width="300px"/> 
+ 
+ <a href="https://github.com/GessnerBezerra">
+  
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gessner Bezerra&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true" width="300px"/>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montoyaaa&layout=compact&langs_count=7&theme=city_lights" width="300px"/>
+
+ 
   
 <h4>  
  
