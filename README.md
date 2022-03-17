@@ -2,7 +2,7 @@
 
 <p align="center">
 
- <img src="https://cdn.dribbble.com/users/4385214/screenshots/10639794/2gui.gif"> 
+ <img src="https://cdn.dribbble.com/users/4385214/screenshots/10639794/2gui.gif" width="300px"> 
   
 <h4> 🪐  Me chamo Gessner
  
