@@ -4,20 +4,17 @@
 
  <img src="https://cdn.dribbble.com/users/4385214/screenshots/10639794/2gui.gif" width="600px"> 
   
-<h4> 🪐  Me chamo Gessner
- 
+<h4>  
        - Eu gosto de praticar esporte e estudar programação
  
        - Atualmente estou 7ª Edição Programa Starter Full Stack Developer
  
-       - Experiências profissionais - não precisa necessariamente ser na
-         área de T.I.
+       - Lecionei por alguns anos, e estive por varios anos na área adminstrativa, mas 
+         sempre ligada de uma forma ou de outra atecnologia.
  
-       - Linguagem de Programação favorita - se já possuir alguma
+       - Gosto muito de programar em Python, NodeJs e também C e C++
  
-       - O que está estudando atualmente - aqui você pode colocar as
-         linguagens e tecnologias que está vendo atualmente no Programa
-         Starter
+       - Atualmente estou me aperfeisoando em JavaScript e também Html e Css
 
 </h4>
 
@@ -32,10 +29,6 @@
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="imagem" width="60"> &nbsp;
 &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="imagem" width="68"> &nbsp;
-&nbsp;
-<img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="imagem" width="65"> &nbsp;
-<img src="https://i.imgur.com/Y194qy5.png" alt="imagem" width="63"> &nbsp;
 
 ### 🔧 Ferramentas:<br>
 <img height="45" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> &nbsp;
