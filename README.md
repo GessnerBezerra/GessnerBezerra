@@ -1,10 +1,25 @@
-## Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Me chamo Gessners
+## Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Me chamo Gessner
 
 <p align="center">
-<a href="https:/www.linkedin.com/in/gessner-de-oliveira-bezerra-a9908b42" target="_blank">
+
  <img src="https://cdn.dribbble.com/users/4385214/screenshots/10639794/2gui.gif"> 
   
-<h4> 🪐 Me chamo Gessner, tenho 44 anos, sou professor de Matemática e Desenvolvedor FullStack em desenvolvimento na GrowDev.</h4>
+<h4> 🪐  Me chamo Gessner
+ 
+       - Eu gosto de praticar esporte e estudar programação
+ 
+       - Atualmente estou 7ª Edição Programa Starter Full Stack Developer
+ 
+       - Experiências profissionais - não precisa necessariamente ser na
+         área de T.I.
+ 
+       - Linguagem de Programação favorita - se já possuir alguma
+ 
+       - O que está estudando atualmente - aqui você pode colocar as
+         linguagens e tecnologias que está vendo atualmente no Programa
+         Starter
+
+</h4>
 
 <h2> 🚀 Full-Stack: </h2>
 
