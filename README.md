@@ -45,7 +45,7 @@
   
 ### 👨🏻‍💻 Redes Sociais:
 
-<a href="https://www.linkedin.com/in/gessner-de-oliveira-bezerra-a9908b42/" alt="Minha pagina Linkedin">
+<a href="https://www.linkedin.com/in/gessner-de-oliveira-bezerra-a9908b42/" target="_blank" alt="Minha pagina Linkedin">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
