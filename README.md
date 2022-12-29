@@ -19,7 +19,7 @@
  
        - Gosto muito de programar em Python, NodeJs e também C e C++;
  
-       - Atualmente estou me aperfeisoando em JavaScript e também Html e Css.
+       - Atualmente estou me aperfeisoando em Html, Css, e algumas linguagens de prograsmação como, JavaScript e Java.
 
 </h4>
 
