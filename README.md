@@ -6,9 +6,8 @@
 
 <p align="center">
 
-<!--  <img src="https://cdn.dribbble.com/users/4385214/screenshots/10639794/2gui.gif" width="600px"/>  -->
-  
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gessnerbezerra&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+  
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montoyaaa&layout=compact&langs_count=7&theme=city_lights"/>
  
   <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
