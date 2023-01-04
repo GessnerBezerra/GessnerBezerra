@@ -1,4 +1,4 @@
-## Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Me chamo Gessner
+## Olá, Me chamo Gessner <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <p align="center">
 
@@ -12,14 +12,13 @@
  
        - Eu gosto de praticar esporte e estudar programação;
  
-       - Atualmente estou 7ª Edição Programa Starter Full Stack Developer;
+       - Atualmente estou 13ª Edição Programa Starter Full Stack Developer;
  
-       - Lecionei por alguns anos, e estive por varios anos na área adminstrativa, mas 
-         sempre ligada de uma forma ou de outra atecnologia;
+       - Lecionei por alguns anos, e estive por varios anos na área adminstrativa, mas sempre ligada de uma forma ou de outra a tecnologia;
  
-       - Gosto muito de programar em Python, NodeJs e também C e C++;
+       - Gosto muito de programar em Python, NodeJs e também C e C++, JavaScript e Java;
  
-       - Atualmente estou me aperfeisoando em Html, Css, e algumas linguagens de prograsmação como, JavaScript e Java.
+       - Atualmente estou me aperfeisoando em Html, CSS, e algumas linguagens de prograsmação como, JavaScript e Java.
 
 </h4>
 
