@@ -1,6 +1,10 @@
 ## Olá, Me chamo Gessner <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Saldações+a+todos..&hearts;++;Estudante+Full-Stack+Developer,;Engenharia +da+computação+Student,;Learner/Researcher,;Amor+para+aprender+novas+habilidades.."></a>
+</p>
+
+<p align="center">
 
  <img src="https://cdn.dribbble.com/users/4385214/screenshots/10639794/2gui.gif" width="600px"/> 
   
@@ -23,10 +27,6 @@
 </h4>
 
 <h2> 🚀 Full-Stack: </h2>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Saldações+a+todos..&hearts;++;Estudante+Full-Stack+Developer,;Engenharia +da+computação+Student,;Learner/Researcher,;Amor+para+aprender+novas+habilidades.."></a>
-</p>
 
 <p align="center">
   
