@@ -30,18 +30,16 @@
 
 <p align="center">
 
-- **Languages**:
+- **Languagens**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/javascript%20-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=white)
+    ![JAVA](https://img.shields.io/badge/java%20-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white)
     ![HTML](https://img.shields.io/badge/html%20-%2314354C.svg?style=for-the-badge&logo=html&logoColor=white)
     ![CSS](https://img.shields.io/badge/css%20-%2314354C.svg?style=for-the-badge&logo=css&logoColor=white)
 
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="imagem" width="60"> &nbsp;
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="imagem" width="60"> &nbsp;
-&nbsp; -->
 
 ### 🔧 Ferramentas:<br>
 
