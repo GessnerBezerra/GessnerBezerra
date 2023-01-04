@@ -4,11 +4,28 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0AFF13&background=FFF3F500&center=true&vCenter=true&width=450&lines=Sauda%C3%A7%C3%B5es+a+todos...;Sou+estudante+Full+Stack+Developer;+pela+Growdever%2C;e+de+Engenharia++da+computa%C3%A7%C3%A3o%2C;Amo+aprender+novas+habilidades" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
+-----
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gessnerbezerra&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
-  
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montoyaaa&layout=compact&langs_count=7&theme=city_lights"/>
+<br>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/0xabdulkhalid/">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+
+</a>
+</div>
+
+<br>
+<br>
+<br>
+
+-----
  
   <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
   
