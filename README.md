@@ -1,7 +1,7 @@
 ## Olá, Me chamo Gessner <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=000000&background=FFF3F500&center=true&vCenter=true&width=450&lines=Salda%C3%A7%C3%B5es+a+todos..%26hearts%2C;Sou+estudante+Full+Stack+Developer;+pela+Growdever%2C;e+de+Engenharia++da+computa%C3%A7%C3%A3o%2C;Amo+aprender+novas+habilidades" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0AFF13&background=FFF3F500&center=true&vCenter=true&width=450&lines=Salda%C3%A7%C3%B5es+a+todos..%26hearts%2C;Sou+estudante+Full+Stack+Developer;+pela+Growdever%2C;e+de+Engenharia++da+computa%C3%A7%C3%A3o%2C;Amo+aprender+novas+habilidades" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
