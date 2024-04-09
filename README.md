@@ -1,7 +1,10 @@
 ## Olá, Me chamo Gessner <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0AFF13&background=FFF3F500&center=true&vCenter=true&width=450&lines=Sauda%C3%A7%C3%B5es+a+todos...;Sou+estudante+Full+Stack+Developer;+pela+Growdever%2C;e+de+Engenharia++da+computa%C3%A7%C3%A3o%2C;Amo+aprender+novas+habilidades" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0AFF13&background=FFF3F500&center=true&vCenter=true&width=450&lines=Sauda%C3%A7%C3%B5es+a+todos...;Seja+bem+vindo+ao+meu+repositório;%2C;" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0AFF13&background=FFF3F500&center=true&vCenter=true&width=450&lines=Sauda%C3%A7%C3%B5es+a+todos...;Estudandte+de+engenharia+da+computação;%2C;E+desenvolvedor+de+sites%C3%A7%C3%A3o%2C;" alt="Typing SVG" /></a>
 </p>
  
   <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width = 250px></picture>
@@ -10,13 +13,11 @@
  
        - Eu gosto de praticar esporte e estudar programação;
  
-       - Atualmente estou 13ª Edição Programa Starter Full Stack Developer;
- 
-       - Lecionei por alguns anos, e estive por varios anos na área adminstrativa, mas sempre ligada de uma forma ou de outra a tecnologia;
+      - Lecionei por alguns anos, e estive por varios anos na área adminstrativa, mas sempre ligada de uma forma ou de outra a tecnologia;
  
        - Gosto muito de programar em Python, NodeJs e também C e C++, JavaScript e Java;
  
-       - Atualmente estou me aperfeisoando em Html, CSS, e algumas linguagens de prograsmação como, JavaScript e Java.
+       - Atualmente desenvolvo sites, utilizando para isso as principais tecnologias, como os principais frameworks e práticas ágeis.
 
 </h4>
 
