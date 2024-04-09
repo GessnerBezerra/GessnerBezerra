@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0AFF13&background=FFF3F500&center=true&vCenter=true&width=450&lines=Sauda%C3%A7%C3%B5es+a+todos...;Sou+estudante+Full+Stack+Developer;+pela+Growdever%2C;e+de+Engenharia++da+computa%C3%A7%C3%A3o%2C;Amo+aprender+novas+habilidades" alt="Typing SVG" /></a>
 </p>
  
-  <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+  <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width = 250px></picture>
   
 <h4>  
  
