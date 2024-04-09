@@ -1,10 +1,7 @@
 ## Olá, Me chamo Gessner <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0AFF13&background=FFF3F500&center=true&vCenter=true&width=450&lines=Sauda%C3%A7%C3%B5es+a+todos...;Seja+bem+vindo+ao+meu+repositório;%2C;" alt="Typing SVG" /></a>
-</p>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0AFF13&background=FFF3F500&center=true&vCenter=true&width=450&lines=Sauda%C3%A7%C3%B5es+a+todos...;Estudandte+de+engenharia+da+computação;%2C;E+desenvolvedor+de+sites%C3%A7%C3%A3o%2C;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0AFF13&background=FFF3F500&center=true&vCenter=true&width=450&lines=Olá...;Seja+bem+vindo+ao+meu+repositório;%2CSou+estudante+de+Engenharia+da+Computação+pelo+IFPB;%2C;E+desenvolvedor+de+sites;" alt="Typing SVG" /></a>
 </p>
  
   <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width = 250px></picture>
